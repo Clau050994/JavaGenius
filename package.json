@@ -1,0 +1,28 @@
+{
+  "name": "javagenius",
+  "version": "1.0.0",
+  "description": "Web Development Project 2",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clau050994/JavaGenius.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clau050994/JavaGenius/issues"
+  },
+  "homepage": "https://github.com/Clau050994/JavaGenius#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^5.1.5"
+  }
+}
