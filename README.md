@@ -31,10 +31,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dmb2V4a3UzYWp2dTZrNjk1aHEyMjdubWhqMnE5bmRpMDNhcjI4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8WYuEv3MAc8gFHQJQq/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+
+GIF created with GIPHY
 
 
 ## Notes
