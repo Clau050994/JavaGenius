@@ -1,0 +1,24 @@
+.card {
+    width: 600px; /* Increase the width to make it bigger */
+    height: 300px; /* Increase the height to make it bigger */
+    margin: 0 auto; /* Center the card horizontally */
+    margin-top: 5vh; /* Center the card vertically */
+    background-color: #9a6f87;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    transition: transform 0.60s;
+    transform-style: preserve-3d;
+    position: relative;
+    font-family: Arial, sans-serif;
+}
+    
+  
+  
+  .card:active {
+    transform: rotateX(180deg);
+  }
+  

@@ -1,0 +1,58 @@
+
+.my-buttonLeft, .my-buttonRight {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgb(102, 70, 143);
+    border: 2px solid white; 
+    cursor: pointer;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 0 10px; 
+    transition: all 0.3s ease;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center; 
+    align-self: center;
+    gap: 10px; 
+    color: white;
+    background-color: transparent;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 1.5rem;
+    border-radius: 5px;   
+}
+.cards-container {
+    justify-content: center; 
+    align-self: center;
+    color: white;
+    margin-top: 0;
+}
+
+
+.header-container {
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center;
+    text-align: center; 
+}
+
+
+/* .h1-header {
+    height: 20vh; 
+}
+
+.h2-header {
+    height: 10vh; 
+}
+.h3-header {
+    height: 10vh; 
+} */
+
