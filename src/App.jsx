@@ -54,9 +54,9 @@ function App() {
         };  
 
         const flipCart = () => {
-            if (isAnswerCorrect !== null) {
+            // if (isAnswerCorrect !== null) {
                 setIsFlipped(prevFlipped => !prevFlipped);
-              }
+            //   }
         };
        
         const handlePreviousCard = () => {
