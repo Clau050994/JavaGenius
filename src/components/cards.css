@@ -21,4 +21,17 @@
   .card:active {
     transform: rotateX(180deg);
   }
+
+  .cardBody {
+    gap: 10px;
+    
+  }
+  .mastered-button {
+    padding: 8px 16px;
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
   
